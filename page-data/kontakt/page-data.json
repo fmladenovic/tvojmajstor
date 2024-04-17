@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-contact-js",
+    "path": "/kontakt",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Kontakt","path":"/kontakt"},"fields":{"slug":"/basic/contact/"},"html":"<p>Dolazak na adresu za <b>30 minuta</b>!</p>\n<table>\n<thead>\n<tr>\n<th>Dani</th>\n<th>Radno vreme</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Ponedeljak</td>\n<td>00 - 24</td>\n</tr>\n<tr>\n<td>Utorak</td>\n<td>00 - 24</td>\n</tr>\n<tr>\n<td>Sreda</td>\n<td>00 - 24</td>\n</tr>\n<tr>\n<td>Četvrtak</td>\n<td>00 - 24</td>\n</tr>\n<tr>\n<td>Petak</td>\n<td>00 - 24</td>\n</tr>\n<tr>\n<td>Subota</td>\n<td>00 - 24</td>\n</tr>\n<tr>\n<td>Nedelja</td>\n<td>00 - 24</td>\n</tr>\n</tbody>\n</table>"}},"pageContext":{"id":"a0ba6a94-1cda-5668-8ef4-bd94bc3fc764"}},
+    "staticQueryHashes": ["1820306268","239876865","3041911663","4263105138","4266893431","731870426","748283036","760941739"]}

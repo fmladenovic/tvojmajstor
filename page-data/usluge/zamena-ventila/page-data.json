@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-service-js",
+    "path": "/usluge/zamena-ventila/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Zamena ventila"},"fields":{"slug":"/usluge/zamena-ventila/"},"html":"<p>Zamena ventila je još jedna od usluga koju pružamo kako bismo osigurali ispravno funkcionisanje vodovodnog sistema u vašem domu ili poslovnom prostoru. Naš tim vodoinstalatera poseduje ekspertizu u brzoj i efikasnoj zameni ventila različitih tipova i veličina. Bilo da je reč o ventilima za kontrolu protoka vode, sigurnosnim ventilima ili ventilima za regulaciju pritiska, mi pružamo preciznu zamenu kako bismo sprečili curenje, oštećenja ili gubitak efikasnosti sistema. Naš cilj je da obezbedimo pouzdan vodovodni sistem koji će zadovoljiti sve vaše potrebe i osigurati sigurnost i udobnost u vašem domu ili poslovnom prostoru.</p>"}},"pageContext":{"id":"09cdbd8d-4349-52fb-98e6-99ba4b14fd31"}},
+    "staticQueryHashes": ["1820306268","239876865","3041911663","4266893431","731870426","748283036","760941739"]}
